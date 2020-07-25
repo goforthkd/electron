@@ -12,7 +12,7 @@
     "q": "0.9.7",
     "temp": "0.8.1",
     "walkdir": "0.0.7",
-    "ws": "0.7.2",
+    "ws": "7.3.1",
     "yargs": "^3.31.0"
   },
   "optionalDependencies": {
